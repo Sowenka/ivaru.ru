@@ -1,0 +1,68 @@
+.aside {
+    width: 80px;
+    float: right;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 142px;
+    z-index: 5;
+}
+
+.aside__box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 91px;
+    padding-bottom: 87px;
+}
+
+.aside__tel {
+    writing-mode: vertical-rl;
+    margin-bottom: 75px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #2a5633;
+}
+
+.aside__mail {
+    writing-mode: vertical-rl;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #6f7670;
+    margin-bottom: 133px;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 1000ms ease-in-out;
+}
+
+.social__img {
+    margin-bottom: 16px;
+}
+.social__img svg path {
+    transition: fill 500ms ease-in-out;
+}
+
+.telegram svg:hover rect {
+    fill: #7b8f78;
+    transition: fill 500ms ease-in-out;
+}
+.youtube svg:hover rect {
+    fill: #7b8f78;
+    transition: fill 500ms ease-in-out;
+}
+.vk svg:hover path {
+    fill: #7b8f78;
+    transition: fill 500ms ease-in-out;
+}
+.drop-aside {
+    opacity: 0;
+    transition: all 1000ms ease-in-out;
+}

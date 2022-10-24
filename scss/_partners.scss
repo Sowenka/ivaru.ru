@@ -1,0 +1,119 @@
+.partners-h2 {
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    color: #111912;
+    margin-bottom: 40px;
+}
+.title-text {
+    font-weight: 300;
+    font-size: 1.125em;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    color: #111912;
+    max-width: 850px;
+}
+.line-partners {
+    max-width: 1440px;
+    height: 0px;
+    border: 1px solid #cfd8e0;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.for-you__h2 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    color: #111912;
+    margin-bottom: 40px;
+}
+.for-you__flexbox-1 {
+    display: flex;
+    justify-content: space-between;
+    // flex-wrap: wrap;
+    align-items: center;
+    width: 340px;
+    gap: 144px;
+}
+
+.for-you__flexbox-2 {
+    display: flex;
+    justify-content: space-between;
+    // flex-wrap: wrap;
+    align-items: center;
+    width: 340px;
+    gap: 144px;
+}
+
+.flexbox-1__items {	
+    margin-left: 20px;
+    position: relative;
+}
+.flexbox-2__items {    
+    position: relative;
+    margin-left: 20px;
+}
+.flexbox-1__item {
+	width: 331px;
+}
+.flexbox-2__item {
+	width: 331px;
+}
+
+
+.flexbox-1__items::before {
+    content: url(../img/circle.svg);
+    position: absolute;
+    left: -20px;
+    top: 3px;
+}
+
+.flexbox-2__items::before {
+    content: url(../img/circle.svg);
+    position: absolute;
+    left: -20px;
+    top: 3px;
+}
+
+.flexbox-1__item {
+    margin-bottom: 20px;
+    font-weight: 300;
+    font-size: 1.125em;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    color: #111912;
+}
+
+.flexbox-2__item {
+    margin-bottom: 20px;
+    font-weight: 300;
+    font-size: 1.125em;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    color: #111912;
+}
+
+.block-contacts-flexbox {
+    display: flex;
+    gap: 210px;
+    flex-wrap: wrap;
+}
+
+.block-contacts-flexbox__title {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #111912;
+    margin-bottom: 20px;
+}
+.block-contacts-flexbox__subtitle {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #6f7670;
+}
