@@ -1,0 +1,38 @@
+{
+	"0001":
+	{ 
+		"img_item": "card_img.jpg",
+		"title": "Карлос",
+		"subtitle": "Диваны, Карлос, Мягкая мебель",
+		"link": "",
+		"order": 3
+	},
+
+
+	"0002":
+	{ 
+		"img_item": "card_img.jpg",
+		"title": "Карлос",
+		"subtitle": "Диваны, Карлос, Мягкая мебель",
+		"link": "",
+		"order": 3
+	},
+
+	"0003":
+	{ 
+		"img_item": "card_img.jpg",
+		"title": "Карлос",
+		"subtitle": "Диваны, Карлос, Мягкая мебель",
+		"link": "",
+		"order": 3
+	},
+
+	"0004":
+	{ 
+		"img_item": "card_img.jpg",
+		"title": "Карлос",
+		"subtitle": "Диваны, Карлос, Мягкая мебель",
+		"link": "",
+		"order": 3
+	}
+}
