@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="424px" height="300px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 424 299.8"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="636" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="300">
+	<font-face 
+		font-family="Leelawadee UI Semilight">
+		<font-face-src>
+			<font-face-name name="Leelawadee UI Semilight Обычный"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+  </font>
+  <font id="FontID0" horiz-adv-x="587" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="EngraversGothic BT">
+		<font-face-src>
+			<font-face-name name="EngraversGothic BT"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="E" horiz-adv-x="545" d="M80.9939 0l0 538.958 423.965 0 0 -61.9938 -356.968 0 0 -157.991 215.979 0 0 -61.9938 -215.979 0 0 -194.985 378.968 0 0 -61.9938 -445.965 0z"/>
+   <glyph unicode="H" horiz-adv-x="616" d="M80.9939 0l0 538.958 67.9933 0 0 -212.984 317.976 0 0 212.984 66.9965 0 0 -538.958 -66.9965 0 0 263.98 -317.976 0 0 -263.98 -67.9933 0z"/>
+   <glyph unicode="L" horiz-adv-x="499" d="M80.9939 0l0 538.958 66.9965 0 0 -476.964 351.97 0 0 -61.9938 -418.967 0z"/>
+   <glyph unicode="N" horiz-adv-x="612" d="M80.9939 0l0 538.958 35.1659 0 349.802 -402.801 0 402.801 66.9965 0 0 -538.958 -34.1644 0 -350.804 402.801 0 -402.801 -66.9965 0z"/>
+   <glyph unicode="O" horiz-adv-x="633" d="M316.975 48.9979c60.4962,0 110.656,20.663 150.489,61.9938 39.6632,41.3308 59.4947,93.8245 59.4947,157.32 0,63.6614 -19.8316,116.325 -59.3294,157.656 -39.4978,41.3308 -89.8279,61.9938 -150.655,61.9938 -60.4962,0 -110.656,-20.8331 -150.489,-62.3292 -39.6632,-41.4961 -59.4947,-93.9898 -59.4947,-157.32 0,-63.496 19.8316,-115.99 59.4947,-157.32 39.8332,-41.3308 89.9932,-61.9938 150.489,-61.9938zm-0.165342 -62.9953c-80.8286,0 -147.49,26.6626 -199.983,79.8271 -52.4984,53.1598 -78.8303,120.657 -78.8303,202.482 0,81.9954 26.3319,149.653 79.161,202.818 52.6638,53.1645 119.16,79.8271 199.653,79.8271 80.6585,0 147.49,-26.6626 200.65,-80.1625 52.9944,-53.3251 79.4964,-120.822 79.4964,-202.482 0,-81.8254 -26.5019,-149.323 -79.3311,-202.482 -52.8291,-53.1645 -119.821,-79.8271 -200.815,-79.8271z"/>
+   <glyph unicode="R" horiz-adv-x="597" d="M144.991 298.976l237.979 0c33.829,0 59.4947,7.5018 76.8273,22.5007 17.4979,14.8288 26.1665,36.8287 26.1665,65.825 0,28.1648 -8.66864,50.3301 -26.1665,65.995 -17.3326,15.835 -41.8315,23.6675 -73.4921,23.6675l-241.314 0 0 -177.988zm-66.9965 -298.976l0 538.958 309.308 0c52.6638,0 93.8292,-13.3313 123.827,-39.8285 29.8277,-26.5019 44.8266,-63.1653 44.8266,-109.995 0,-38.9971 -11.6637,-72.3253 -34.9958,-100.159 -23.4974,-27.8294 -54.3314,-45.162 -92.6576,-51.9929l134.654 -236.982 -73.9929 0 -134.825 235.981 -209.148 0 0 -235.981 -66.9965 0z"/>
+   <glyph unicode="T" horiz-adv-x="416" d="M174.988 0l0 476.964 -226.986 0 0 61.9938 520.959 0 0 -61.9938 -226.981 0 0 -476.964 -66.9918 0z"/>
+   <glyph unicode="W" horiz-adv-x="720" d="M169.82 0l-175.82 538.958 65.995 0 133.823 -415.967 137.153 415.967 59.9955 0 136.823 -414.966 134.158 414.966 63.9968 0 -175.324 -538.958 -48.8278 0 -141.991 433.966 -140.654 -433.966 -49.3286 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Leelawadee UI Semilight";font-variant:normal;font-style:normal;font-weight:300;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"EngraversGothic BT";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke:#753F09;stroke-width:6.04;stroke-miterlimit:22.9256}
+    .str0 {stroke:black;stroke-width:1.01;stroke-miterlimit:22.9256}
+    .str3 {stroke:#753F09;stroke-width:1.01;stroke-miterlimit:22.9256}
+    .str2 {stroke:black;stroke-width:5.04;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil1 {fill:black}
+    .fil0 {fill:#FE951C}
+    .fnt0 {font-weight:normal;font-size:30.22px;font-family:'EngraversGothic BT'}
+    .fnt1 {font-weight:normal;font-size:30.22px;font-family:'EngraversGothic BT'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="59.52" y="-12.13" width="316.78" height="289.08"/>
+  <rect class="fil0 str1" x="143.35" y="40.39" width="146.56" height="146.56"/>
+  <text x="164.33" y="219.94"  class="fil1 fnt0">OWL</text>
+  <text x="234.44" y="219.94"  class="fil1 fnt0">ON</text>
+  <text x="223.37" y="219.94"  class="fil1 fnt0"> </text>
+  <text x="154.5" y="244.37"  class="fil1 fnt1">THE TREE</text>
+  <ellipse class="fil2 str2" cx="182.11" cy="112.94" rx="15.4" ry="15.24"/>
+  <line class="fil2 str3" x1="217.49" y1="92.32" x2="217.49" y2= "149.98" />
+  <ellipse class="fil2 str2" cx="252.62" cy="112.44" rx="15.4" ry="15.24"/>
+ </g>
+</svg>
