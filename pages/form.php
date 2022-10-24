@@ -20,14 +20,14 @@ $mail->SMTPDebug = 0;
 
 $mail->Host = 'ssl://smtp.yandex.ru';
 $mail->Port = 465;
-$mail->Username = 'support@ivaru.ru';
-$mail->Password = 'omofuaycdfgqwhzy';
+$mail->Username = 'xxx';
+$mail->Password = 'xxx';
 
 // От кого
-$mail->setFrom('support@ivaru.ru', 'Заявка с сайта');
+$mail->setFrom('xxx', 'Заявка с сайта');
 
 // Кому
-$mail->addAddress('sale@ivaru.ru');
+$mail->addAddress('xxx');
 $mail->Subject = "[Заявка с формы обратной связи ivaru.ru]";
 
 // Тема письма
@@ -53,7 +53,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['recaptcha_response'])
 
 	// Создаем POST запрос
 	$recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-	$recaptcha_secret = '6LcjtYgiAAAAANZKdqzQRTkFvQeiATRNRboSD_Lh';
+	$recaptcha_secret = 'xxx';
 	$recaptcha_response = $_POST['recaptcha_response'];
 
 	// Отправляем POST запрос и декодируем результаты ответа
