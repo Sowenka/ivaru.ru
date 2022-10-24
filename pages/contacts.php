@@ -43,7 +43,7 @@
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="../css/style.css" />
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-	<script src="https://www.google.com/recaptcha/api.js?render=6LcjtYgiAAAAAKIjGyzLGpBD5_PAj9IRK1iPWLRZ"></script>
+	<script src="https://www.google.com/recaptcha/api.js?render=xxx"></script>
 	<title>Контакты мебельной фабрики Ивару</title>
 </head>
 
